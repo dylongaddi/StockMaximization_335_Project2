@@ -1,0 +1,26 @@
+Max Stocks (Exhaustive Search): 11
+Max Stocks (Exhaustive Search): 12
+Max Stocks (Exhaustive Search): 22
+Max Stocks (Exhaustive Search): 14
+Max Stocks (Exhaustive Search): 8
+Max Stocks (Exhaustive Search): 17
+Max Stocks (Exhaustive Search): 12
+Max Stocks (Exhaustive Search): 18
+Max Stocks (Exhaustive Search): 15
+Max Stocks (Exhaustive Search): 22
+Max Stocks (Exhaustive Search): 10
+Max Stocks (Exhaustive Search): 21
+Max Stocks (Exhaustive Search): 13
+Max Stocks (DP): 11
+Max Stocks (DP): 12
+Max Stocks (DP): 22
+Max Stocks (DP): 14
+Max Stocks (DP): 8
+Max Stocks (DP): 17
+Max Stocks (DP): 12
+Max Stocks (DP): 18
+Max Stocks (DP): 15
+Max Stocks (DP): 22
+Max Stocks (DP): 10
+Max Stocks (DP): 21
+Max Stocks (DP): 13
